@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Image_Filter_app.py
